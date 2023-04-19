@@ -1,0 +1,6 @@
+#question-label::after {
+content: 'Not a question';
+font-size: 14px !important;
+}
+#question-label {
+font-size: 0px !important; 
